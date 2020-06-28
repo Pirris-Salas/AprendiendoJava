@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AprendiendoJava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AprendiendoJava_jar</output-path>
+    <root id="archive" name="AprendiendoJava.jar">
+      <element id="module-output" name="AprendiendoJava" />
+    </root>
+  </artifact>
+</component>
