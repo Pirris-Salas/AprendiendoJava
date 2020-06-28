@@ -21,7 +21,7 @@ public class EjercicioVariables {
         System.out.println("Hija rebelde: " + hijaMenor + " " + apellidoPadre + " " + apellidoMadre + ".");
 
 
-        
+
 
     }
 
