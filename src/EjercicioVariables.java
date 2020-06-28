@@ -1,6 +1,8 @@
-public class EjerciciosClase21 {
+public class EjercicioVariables {
 
     public static void main(String[] args){
+
+        //EJERCICIO 1
 
         String padre = "Fernando";
         String madre = "Brenda";
@@ -17,6 +19,9 @@ public class EjerciciosClase21 {
         System.out.println("Hijo paciente: " + hijo + " " + apellidoPadre + " " + apellidoMadre + ".");
         System.out.println("Hija loca: " + hijaMayor + " " + apellidoPadre + " " + apellidoMadre + ".");
         System.out.println("Hija rebelde: " + hijaMenor + " " + apellidoPadre + " " + apellidoMadre + ".");
+
+
+        
 
     }
 
