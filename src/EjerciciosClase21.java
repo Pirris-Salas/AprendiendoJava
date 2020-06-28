@@ -1,4 +1,4 @@
-public class EjercicioVariables {
+public class EjerciciosClase21 {
 
     public static void main(String[] args){
 
