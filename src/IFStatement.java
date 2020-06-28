@@ -11,7 +11,11 @@ public class IFStatement {
             fileSended++;
             System.out.println("Archivo enviado.");
         }
+        else{
 
-
+            fileSended--;
+            System.out.println("Por favor enciende el Buetooth, para iniciar la transferencia");
+        }
+        System.out.println(fileSended);
     }
 }
