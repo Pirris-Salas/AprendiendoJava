@@ -23,6 +23,7 @@ public class Funciones {
      * @return Devuelve el área de un círculo.
      *
      * @autor Luis Salas
+     * @since July 1st, 2020
      * */
 public static double circleArea(double radio){
 
